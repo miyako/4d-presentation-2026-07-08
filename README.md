@@ -9,7 +9,7 @@
 - [テキストをメソッドに変換して実行](https://github.com/miyako/Demo_21_R3_MethodClass)
 - [階層付き番号リスト](https://github.com/miyako/HDI_4DWP_MultiLevelStyleSheets)
 
-## まとめ
+## 公式ブログ
 
 <img width="32" height="32" alt="image21" src="https://github.com/user-attachments/assets/ccf389e5-eb62-4c6e-9b16-5f472bddb041" />
 
