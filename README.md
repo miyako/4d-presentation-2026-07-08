@@ -1,5 +1,9 @@
 # 4d-presentation-2026-07-08
 
+## スライド
+
+- https://speakerdeck.com/miyako/4d-21-r2-r3
+
 ## デモンストレーション
 
 - [PDF文書をAIで解析](https://github.com/miyako/AIPdfAnalyser_Webinar21R2R3)
