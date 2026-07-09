@@ -1,5 +1,14 @@
 # 4d-presentation-2026-07-08
 
+## デモンストレーション
+
+- [PDF文書をAIで解析](https://github.com/miyako/AIPdfAnalyser_Webinar21R2R3)
+- [複雑なツール連携をJSON検証で実現](https://github.com/miyako/4D-Demo-AI-Automation)
+- [OSを踏襲したフォームの表示と印刷](https://github.com/miyako/DEMO_21_R3_Liquid_Glass)
+- [Qodlyページをクライアントのフォームに](https://github.com/4d-depot/Demo_21_R2_R3_Qodly_in_4D)
+- [テキストをメソッドに変換して実行](https://github.com/miyako/Demo_21_R3_MethodClass)
+- [階層付き番号リスト](https://github.com/miyako/HDI_4DWP_MultiLevelStyleSheets)
+
 ## まとめ
 
 <img width="32" height="32" alt="image21" src="https://github.com/user-attachments/assets/ccf389e5-eb62-4c6e-9b16-5f472bddb041" />
