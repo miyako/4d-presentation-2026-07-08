@@ -35,6 +35,7 @@
   - [サーバー上でロジックを実行](https://blog.4d.com/ja/client-server-a-new-way-to-execute-logic-on-server/)
   - [権限やセッション・ストレージに保存された情報に応じてデータを制限](https://blog.4d.com/ja/restrict-data-according-to-privileges-or-information-saved-in-session-storage/)
   - [Webセッションのワンタイムパスワード](https://blog.4d.com/ja/connect-your-web-apps-to-third-party-systems/)
+  - [Qodlyのカスタムコンポーネント](https://github.com/qodly/custom-components)
 - [大幅に強化されたシンタックスチェックとデータ型推論](https://blog.4d.com/ja/better-error-handling-and-type-inference-for-4d-developers/)
 - [コマンド引数のデータ型をリアリタイムチェック](https://blog.4d.com/ja/enhancement-of-command-syntax-checking-in-the-editor/)
 - [Draft 2020-12スキーマでJSON検証](https://blog.4d.com/ja/simplify-json-validation-and-boost-robustness/)
